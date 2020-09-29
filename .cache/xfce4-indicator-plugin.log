@@ -1,0 +1,5 @@
+WARNING    libindicator-plugin       Falló al abrir la carpeta «/usr/lib/indicators3/7/»: No existe el archivo o el directorio
+DEBUG      libindicator-plugin       Looking at Service: com.canonical.indicator.messages
+DEBUG      libindicator-plugin       Loading Service: com.canonical.indicator.messages
+DEBUG      libindicator-plugin       Load indicator: com.canonical.indicator.messages
+DEBUG      GLib                      posix_spawn avoided (automatic reaping requested) (fd close requested) 

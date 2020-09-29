@@ -1,0 +1,7 @@
+accounts.firefox.com:HSTS	0	18534	1632933510174,1,1,2
+firefox.settings.services.mozilla.com:HSTS	0	18534	1632933520179,1,0,2
+incoming.telemetry.mozilla.org:HSTS	0	18534	1617165509733,1,0,2
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	18534	1632933508516,1,1,2
+snippets.cdn.mozilla.net:HSTS	0	18534	1632933518652,1,0,2
+normandy.cdn.mozilla.net:HSTS	0	18534	1632933513728,1,0,2
+location.services.mozilla.com:HSTS	0	18534	1632933513407,1,1,2
